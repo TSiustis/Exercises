@@ -1,0 +1,11 @@
+C:\Users\siust\source\repos\DjikstraAlgorithm\DjikstraAlgorithm\bin\Debug\netcoreapp3.1\DjikstraAlgorithm.exe
+C:\Users\siust\source\repos\DjikstraAlgorithm\DjikstraAlgorithm\bin\Debug\netcoreapp3.1\DjikstraAlgorithm.deps.json
+C:\Users\siust\source\repos\DjikstraAlgorithm\DjikstraAlgorithm\bin\Debug\netcoreapp3.1\DjikstraAlgorithm.runtimeconfig.json
+C:\Users\siust\source\repos\DjikstraAlgorithm\DjikstraAlgorithm\bin\Debug\netcoreapp3.1\DjikstraAlgorithm.runtimeconfig.dev.json
+C:\Users\siust\source\repos\DjikstraAlgorithm\DjikstraAlgorithm\bin\Debug\netcoreapp3.1\DjikstraAlgorithm.dll
+C:\Users\siust\source\repos\DjikstraAlgorithm\DjikstraAlgorithm\bin\Debug\netcoreapp3.1\DjikstraAlgorithm.pdb
+C:\Users\siust\source\repos\DjikstraAlgorithm\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.csprojAssemblyReference.cache
+C:\Users\siust\source\repos\DjikstraAlgorithm\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.AssemblyInfoInputs.cache
+C:\Users\siust\source\repos\DjikstraAlgorithm\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.AssemblyInfo.cs
+C:\Users\siust\source\repos\DjikstraAlgorithm\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.dll
+C:\Users\siust\source\repos\DjikstraAlgorithm\DjikstraAlgorithm\obj\Debug\netcoreapp3.1\DjikstraAlgorithm.pdb
